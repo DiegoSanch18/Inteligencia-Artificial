@@ -6,7 +6,7 @@ n = 100
 X = np.linspace(1, 100, n)
 slope = 2
 intercept = 3
-e = int(input('Error= '))
+e = 1
 
 # Listas para almacenar los resultados de cada iteración
 a_values = []
